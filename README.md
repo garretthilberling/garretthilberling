@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### My name is Garrett Hilberling.
+#### My name is Garrett Hilberling.
 
 * I ***love*** to code (especially when it comes to creating logic)🤓
 * I am equally profiecient in front end and back end😄
