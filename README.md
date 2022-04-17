@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### My name is Garrett
 * I ***love*** to code (especially when it comes to JavaScript logic)🤓
 * I am equally profiecient in front end and back end😄
 * I am currently seeking employment! If you like what you see connect with me ✨[here](https://www.linkedin.com/in/garretthilberling/)✨
