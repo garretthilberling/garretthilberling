@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My name is Garrett
-* Looking to relocate to Seattle, Washington for my first position!☕
+* Looking to relocate to Seattle, Washington for my first position☕
 * I ***love*** to code (especially when it comes to JavaScript logic)🤓
 * I am equally profiecient in front end and back end😄
 * I am currently seeking employment! If you like what you see connect with me ✨[here](https://www.linkedin.com/in/garretthilberling/)✨
