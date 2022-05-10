@@ -9,8 +9,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula" />
 </a>
-&nbsp;
-&nbsp;
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula" />
 </a>
