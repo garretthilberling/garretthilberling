@@ -5,11 +5,13 @@
 * I am a huge fan of puppies. It's so bad I even led a team in designing an entire [application](https://pet-fetcher.herokuapp.com/) dedicated to them!!🐕🐕🐕
 * I am currently seeking employment! If you like what you see connect with me ✨[here](https://www.linkedin.com/in/garretthilberling/)✨
 
+<br></br>
+
 <a href="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula" />
 </a>
-&nbsp;
-&nbsp;
+<br></br>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula" />
 </a>
