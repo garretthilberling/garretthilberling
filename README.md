@@ -14,7 +14,7 @@
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=10" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=github-readme-stats)](https://github.com/garretthilberling/github-readme-stats)
 
 <!-- * If you have any questions feel free to DM me here on Github!😃 -->
 
