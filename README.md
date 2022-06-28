@@ -14,9 +14,9 @@
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=20" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=tech-news-java-api&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=aws-thought&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python-newsfeed&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=tech-news-java-api&theme=dracula)](https://github.com/garretthilberling/tech-news-java-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=aws-thought&theme=dracula)](https://github.com/garretthilberling/aws-thought)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python-newsfeed&theme=dracula)](https://github.com/garretthilberling/python-newsfeed)
 
 
 
