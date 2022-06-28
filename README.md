@@ -8,7 +8,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula&include_all_commits=true">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
-<br></br>
 
 <a href="[https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=10](https://github.com/anuraghazra/github-readme-stats)">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=20" />
@@ -17,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=tech-news-java-api&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=aws-thought&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python-newsfeed&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!-- * If you have any questions feel free to DM me here on Github!😃 -->
