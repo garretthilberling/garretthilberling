@@ -18,6 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=aws-thought&theme=dracula)](https://github.com/garretthilberling/aws-thought)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python-newsfeed&theme=dracula)](https://github.com/garretthilberling/python-newsfeed)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=CatWorx-BadgeMaker-csharp&theme=dracula)](https://github.com/garretthilberling/CatWorx-BadgeMaker-csharp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=csharp-fullstack-azure&theme=dracula)](https://github.com/garretthilberling/csharp-fullstack-azure)
 
 
 
