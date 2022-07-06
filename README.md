@@ -10,7 +10,7 @@
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api?username=garretthilberling&show_icons=true&theme=dracula&include_all_commits=true" />
 </a>
 
-<a href="[https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=10](https://github.com/anuraghazra/github-readme-stats)">
+<a href="[https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=20&hide=handlebars](https://github.com/anuraghazra/github-readme-stats)">
   <img align="center bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garretthilberling&layout=compact&theme=dracula&langs_count=20" />
 </a>
 
