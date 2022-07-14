@@ -20,6 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=CatWorx-BadgeMaker-csharp&theme=dracula)](https://github.com/garretthilberling/CatWorx-BadgeMaker-csharp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=csharp-fullstack-backend-azure&theme=dracula)](https://github.com/garretthilberling/csharp-fullstack-backend-azure)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=csharp-fullstack-frontend-kotlin&theme=dracula)](https://github.com/garretthilberling/csharp-fullstack-frontend-kotlin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python_arcade&theme=dracula)](https://github.com/garretthilberling/python_arcade)
 
 
 
