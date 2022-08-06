@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python-newsfeed&theme=dracula)](https://github.com/garretthilberling/python-newsfeed)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=CatWorx-BadgeMaker-csharp&theme=dracula)](https://github.com/garretthilberling/CatWorx-BadgeMaker-csharp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=python_arcade&theme=dracula)](https://github.com/garretthilberling/python_arcade)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaredpennington&repo=EvntScheduler&theme=dracula)](https://github.com/jaredpennington/EvntScheduler)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=garretthilberling&repo=EVNT&theme=dracula)](https://github.com/garretthilberling/EVNT)
 
 
 
